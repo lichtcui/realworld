@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/lichtcui/Downloads/realworld-nuxtjs/pages/layout",
+    "children": [
+      {
+        "path": "/",
+        "name": "home",
+        "component": "/Users/lichtcui/Downloads/realworld-nuxtjs/pages/home",
+        "_name": "_38c72266"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/lichtcui/Downloads/realworld-nuxtjs/pages/login",
+        "_name": "_3f551a7c"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/lichtcui/Downloads/realworld-nuxtjs/pages/login",
+        "_name": "_3f551a7c"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/lichtcui/Downloads/realworld-nuxtjs/pages/profile",
+        "_name": "_0c2aca7c"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/lichtcui/Downloads/realworld-nuxtjs/pages/settings",
+        "_name": "_56ae63ac"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/lichtcui/Downloads/realworld-nuxtjs/pages/editor",
+        "_name": "_1dcd0934"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/lichtcui/Downloads/realworld-nuxtjs/pages/article",
+        "_name": "_3e9643e2"
+      }
+    ],
+    "_name": "_299be2f1"
+  }
+]
